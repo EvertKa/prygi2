@@ -3,8 +3,8 @@
     <div class="w-4/5 h-fit m-2 bg-[#ded9ad]">
       <div class="border border-black m-4 bg-[#d3e6b3] rounded-md">
         <Disclosure>
-          <DisclosureButton class="py-2 w-full flex">
-            <img class="h-12 w-12 ml-2" src="images/biojaatmed.png" alt="" />
+          <DisclosureButton class="py-2 w-full flex items-center text-left gap-2">
+            <img class="w-10 ml-2 aspect-auto" src="images/biojaatmed.png" alt="" />
             BIOLAGUNEVAD KÖÖGIJÄÄTMED
           </DisclosureButton>
           <DisclosurePanel class="text-gray-800 p-2">
@@ -28,9 +28,9 @@
       </div>
       <div class="border border-black m-4 bg-[#d3e6b3] rounded-md">
         <Disclosure>
-          <DisclosureButton class="py-2 w-full flex">
+          <DisclosureButton class="py-2 w-full flex items-center text-left gap-2">
             <img
-              class="h-12 w-12 ml-2"
+              class="w-10 ml-2 aspect-auto"
               src="images/biolagunevadaiajaatmed.png"
               alt=""/>
             BIOLAGUNEVAD AIAJÄÄTMED
@@ -49,8 +49,8 @@
       </div>
       <div class="border border-black m-4 bg-[#d3e6b3] rounded-md">
         <Disclosure>
-          <DisclosureButton class="py-2 w-full flex">
-            <img class="h-12 w-12 ml-2" src="images/klaaspakend.png" alt="" />
+          <DisclosureButton class="py-2 w-full flex items-center text-left gap-2">
+            <img class="w-10 ml-2 aspect-auto" src="images/klaaspakend.png" alt="" />
             KLAASPAKEND
           </DisclosureButton>
           <DisclosurePanel class="text-gray-800 p-2">
@@ -66,8 +66,8 @@
       </div>
       <div class="border border-black m-4 bg-[#d3e6b3] rounded-md">
         <Disclosure>
-          <DisclosureButton class="py-2 w-full flex gap-1">
-            <img class="h-12 w-12 ml-2" src="images/vanapaber.png" alt="" />
+          <DisclosureButton class="py-2 w-full flex items-center text-left gap-2">
+            <img class="w-10 ml-2 aspect-auto" src="images/vanapaber.png" alt="" />
             <span class="flex-grow ">
             VANAPABER
             </span>
@@ -85,9 +85,9 @@
       </div>
       <div class="border border-black m-4 bg-[#d3e6b3] rounded-md">
         <Disclosure>
-          <DisclosureButton class="py-2 w-full flex">
+          <DisclosureButton class="py-2 w-full flex items-center text-left gap-2">
             <img
-              class="h-12 w-12 ml-2"
+              class="w-10 ml-2 aspect-auto"
               src="images/kasutuskolbmatudriidedjalanoud.png"
               alt=""
             />
@@ -105,9 +105,9 @@
       </div>
       <div class="border border-black m-4 bg-[#d3e6b3] rounded-md">
         <Disclosure>
-          <DisclosureButton class="py-2 w-full flex">
+          <DisclosureButton class="py-2 w-full flex items-center text-left gap-2">
             <img
-              class="h-12 w-12 ml-2"
+              class="w-10 ml-2 aspect-auto"
               src="images/riidedjajalanoud.png"
               alt=""
             />
@@ -125,8 +125,8 @@
       </div>
       <div class="border border-black m-4 bg-[#d3e6b3] rounded-md">
         <Disclosure>
-          <DisclosureButton class="py-2 w-full flex">
-            <img class="h-12 w-12 ml-2" src="images/ohtlikudjaatmed.png" alt="" />
+          <DisclosureButton class="py-2 w-full flex items-center text-left gap-2">
+            <img class="w-10 ml-2 aspect-auto" src="images/ohtlikudjaatmed.png" alt="" />
             OHTLIKUD JÄÄTMED
           </DisclosureButton>
           <DisclosurePanel class="text-gray-800 p-2">
@@ -145,8 +145,8 @@
       </div>
       <div class="border border-black m-4 bg-[#d3e6b3] rounded-md">
         <Disclosure>
-          <DisclosureButton class="py-2 w-full flex">
-            <img class="h-12 w-12 ml-2" src="images/plastmetalljoogikartong.png" alt="">
+          <DisclosureButton class="py-2 w-full flex items-center text-left gap-2">
+            <img class="w-10 ml-2 aspect-auto" src="images/plastmetalljoogikartong.png" alt="">
             PLAST- JA METALLPAKEND
           </DisclosureButton>
           <DisclosurePanel class="text-gray-800 p-2">
@@ -166,8 +166,8 @@
       </div>
       <div class="border border-black m-4 bg-[#d3e6b3] rounded-md">
         <Disclosure>
-          <DisclosureButton class="py-2 w-full flex">
-            <img class="h-12 w-12 ml-2" src="images/pappjapaberpakend.png" alt="">
+          <DisclosureButton class="py-2 w-full flex items-center text-left gap-2">
+            <img class="w-10 ml-2 aspect-auto" src="images/pappjapaberpakend.png" alt="">
             PABER- JA KARTONGPAKED
           </DisclosureButton>
           <DisclosurePanel class="text-gray-800 p-2">
