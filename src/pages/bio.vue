@@ -3,5 +3,10 @@
 
 <template>
     <RouterView></RouterView>
-    <h1>tere</h1>
+    
+    <div class="flex flex-col w-screen h-screen bg-[#cad4c5]">
+        <div class="w-screen text-center">
+            <h1 class="">Pealkiri</h1>
+        </div>
+    </div>
 </template>
