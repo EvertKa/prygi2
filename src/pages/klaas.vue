@@ -5,13 +5,14 @@
     <RouterView></RouterView>
     
     <div class="flex flex-col w-screen h-fit bg-[#cad4c5] p-4">
+        <router-link to="/">Avaleht</router-link>
         <div class="w-screen text-center mt-8">
             <h1 class="text-xl font-bold">KLAASPAKEND</h1>
         </div>
 
         <div class="flex flex-row mt-8">
             <h1 class="w-3/4 font-bold">Plast- ja metallpakendi ning joogikartongi mahutisse võib panna:</h1>
-            <img class="w-1/4 ml-2 aspect-auto" src="images/biojaatmed.png" alt="">
+            <img class="w-1/4 ml-2 aspect-auto" src="images/klaaspakend.png" alt="">
         </div>
         <div class="flex mt-4">
             <h1>karastusjookide ja alkohoolsete jookide pudelid<br/>tühjad moosi-, supi- jm purgidklaasist õlipudelid<br/>klaasist lõhnaõli- ja kosmeetikapudelid<br/>tühjad klaasist toidulisandite pudelid ja purgid</h1>
