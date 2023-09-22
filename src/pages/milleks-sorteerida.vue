@@ -5,6 +5,7 @@
     <RouterView></RouterView>
     
     <div class="flex flex-col w-screen h-fit bg-[#cad4c5] p-4">
+        <router-link to="/">Avaleht</router-link>
         <div class="w-screen text-center mt-8">
             <h1 class="text-xl font-bold">MILLEKS SORTEERIDA?</h1>
         </div>

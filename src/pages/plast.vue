@@ -5,13 +5,14 @@
     <RouterView></RouterView>
     
     <div class="flex flex-col w-screen h-fit bg-[#cad4c5] p-4">
+        <router-link to="/">Avaleht</router-link>
         <div class="w-screen text-center mt-8">
             <h1 class="text-xl font-bold">PLAST- JA METALLPAKEND</h1>
         </div>
 
         <div class="flex flex-row mt-8">
             <h1 class="w-3/4 font-bold">Plast- ja metallpakendi ning joogikartongi mahutisse võib panna:</h1>
-            <img class="w-1/4 ml-2 aspect-auto" src="images/biojaatmed.png" alt="">
+            <img class="w-1/4 ml-2 aspect-auto" src="images/plastmetalljoogikartong.png" alt="">
         </div>
         <div class="flex mt-4">
             <h1>Kilekotid, pakkekile, pakkenöörid, pakketeibid toote ümber olnud penoplast ja vahtplasti graanulid kosmeetika- ja hooldustoodete ning tarbekaupade pakendid leiva- ja saiakotid, salatikarbid, konservikarbid, ketšupipudelid jms toidupakendid alumiiniumpurgid metallist ja plastist korgid ja kaaned piima-, mahla-, jogurti-, veini- jms pakendid, sh komposiitpakendid plastkanistrid </h1>
