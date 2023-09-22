@@ -51,7 +51,9 @@ Tegemist on riikliku tellimuse täitmisega. Platvormi on võimalik edasi arendad
 - Alustasime Figmas disaini ümberkujundamisega ja lisasime sisendandmed. Disain vajab veel tööd.
 - Arendamist alustati esilehest, kuid siis kadusid komponendid. Vea põhjus on tuvastamata. Olukord siiski taastus. Jätkame homme.
 
+- Figma link: https://www.figma.com/file/VbhgUw8dKrBsXY5cjiVp23/Untitled?type=design&node-id=1-3&mode=design&t=rGoZ7rKeOhAEEzRN-0
+
 
 
 ### Reede, 22. september
-- 
+- LINK!!!!
